@@ -1,0 +1,9 @@
+estimated_parameters:
+  Ld: 0.01825
+  Lq: 0.01825
+  P: 4.0
+  Vpk_krpm: 288.78401070785526
+  tau_shaft: 1.33508387404876
+provided_parameters:
+  Jr: 0.009
+  Rs: 0.9
